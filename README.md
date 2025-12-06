@@ -1,3 +1,5 @@
+[English](./README_en.md)
+
 # Save While Browsing
 
 ブラウザでウェブ閲覧中に表示された画像を自動的に保存するPythonスクリプトです。
@@ -28,7 +30,7 @@ SeleniumとChrome DevTools Protocol (CDP) を使用して、ネットワーク�
 
 2.  依存ライブラリをインストールします。
     ```bash
-    pip install selenium Pillow
+    pip install -r requirements.txt
     ```
 
 ## 使い方
